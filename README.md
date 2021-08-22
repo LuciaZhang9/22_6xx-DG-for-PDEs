@@ -1,5 +1,5 @@
 # An intro to DG methods for PDEs
-> This is a forked & updated version.
+> This is a forked & updated version (all originial files included, intact).
 
  Type         | Discription                  | File Form                                                     
 --------------|------------------------------|---------------------------------------------------------------
