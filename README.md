@@ -5,4 +5,4 @@
 --------------|------------------------------|---------------------------------------------------------------
  Presentation | rephrased in Mindmap manner  | .pdf                                                          
  Code         | rewritten in Matlab notebook | .mlx                                                          
- Tutorial     | narrated in Chinese          | https://www.bilibili.com/medialist/detail/ml1329213326?type=1 
+ Tutorial     | narrated in Chinese          | https://space.bilibili.com/180298026/channel/detail?cid=199674 
